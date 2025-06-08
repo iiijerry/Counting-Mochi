@@ -130,4 +130,4 @@ async def invite(interaction: discord.Interaction):
 
 
 # Run the bot
-bot.run("YOUR_BOT_TOKEN")
+bot.run ("DISCORD_BOT_TOKEN")
